@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="4" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="114736" started-at="2020-09-21T04:40:16 IST" finished-at="2020-09-21T04:42:10 IST">
+    <groups>
+    </groups>
+    <test name="testone" duration-ms="114736" started-at="2020-09-21T04:40:16 IST" finished-at="2020-09-21T04:42:10 IST">
+      <class name="org.assignment.testcases.GmailUsingJavaMailTest">
+        <test-method status="PASS" signature="initExtentReport()[pri:0, instance:org.assignment.testcases.GmailUsingJavaMailTest@68c4039c]" name="initExtentReport" is-config="true" duration-ms="288" started-at="2020-09-21T04:40:16 IST" finished-at="2020-09-21T04:40:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initExtentReport -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:org.assignment.testcases.GmailUsingJavaMailTest@68c4039c]" name="setUp" is-config="true" duration-ms="22513" started-at="2020-09-21T04:40:16 IST" finished-at="2020-09-21T04:40:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testGmailSearchFunctionality()[pri:0, instance:org.assignment.testcases.GmailUsingJavaMailTest@68c4039c]" name="testGmailSearchFunctionality" duration-ms="42846" started-at="2020-09-21T04:40:38 IST" finished-at="2020-09-21T04:41:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGmailSearchFunctionality -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:org.assignment.testcases.GmailUsingJavaMailTest@68c4039c]" name="getResult" is-config="true" duration-ms="1627" started-at="2020-09-21T04:41:21 IST" finished-at="2020-09-21T04:41:23 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testGmailSearchFunctionality status=SUCCESS method=GmailUsingJavaMailTest.testGmailSearchFunctionality()[pri:0, instance:org.assignment.testcases.GmailUsingJavaMailTest@68c4039c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:org.assignment.testcases.GmailUsingJavaMailTest@68c4039c]" name="setUp" is-config="true" duration-ms="12742" started-at="2020-09-21T04:41:23 IST" finished-at="2020-09-21T04:41:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testGmailSearchFunctionalityUsingExcel()[pri:0, instance:org.assignment.testcases.GmailUsingJavaMailTest@68c4039c]" name="testGmailSearchFunctionalityUsingExcel" duration-ms="32482" started-at="2020-09-21T04:41:36 IST" finished-at="2020-09-21T04:42:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGmailSearchFunctionalityUsingExcel -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:org.assignment.testcases.GmailUsingJavaMailTest@68c4039c]" name="getResult" is-config="true" duration-ms="1638" started-at="2020-09-21T04:42:08 IST" finished-at="2020-09-21T04:42:10 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testGmailSearchFunctionalityUsingExcel status=SUCCESS method=GmailUsingJavaMailTest.testGmailSearchFunctionalityUsingExcel()[pri:0, instance:org.assignment.testcases.GmailUsingJavaMailTest@68c4039c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:org.assignment.testcases.GmailUsingJavaMailTest@68c4039c]" name="endReport" is-config="true" duration-ms="553" started-at="2020-09-21T04:42:10 IST" finished-at="2020-09-21T04:42:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- org.assignment.testcases.GmailUsingJavaMailTest -->
+    </test> <!-- testone -->
+  </suite> <!-- Suite -->
+</testng-results>

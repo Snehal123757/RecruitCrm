@@ -1,0 +1,3 @@
+org/assignment/testcases/BaseTest.class
+org/assignment/testcases/GmailAttachmentTest.class
+org/assignment/testcases/GmailUsingJavaMailTest.class
